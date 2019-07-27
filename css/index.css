@@ -131,7 +131,6 @@ article{
 }
 
 .first-article{
-    
 	justify-content: space-evenly;
 	padding-bottom: 30px;
 	margin-bottom: 30px;
@@ -175,7 +174,7 @@ h1 {
 }
 
 .indexPage{
-	font-size: 6vh;;
+	font-size: 8vw;;
 	text-align: center;
     display: block;
 }
