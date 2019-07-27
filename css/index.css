@@ -217,6 +217,13 @@ nav img{
 	width: 45%;
 }
 
+.first-section{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
 .threeWide{
 	width: 28%;
 }
@@ -268,9 +275,6 @@ footer a{
     padding-top: 10px;
 	display:block;
 }
-
-
-
 
 @media all and (max-width:800px) {
     .decor {
